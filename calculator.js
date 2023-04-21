@@ -1444,5 +1444,4 @@ function addTableHeader(table, variableLabel) {
 	tableRow.appendChild(tdFPA);
 
 	table.appendChild(tableRow);
-	;
 }
